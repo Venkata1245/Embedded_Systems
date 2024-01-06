@@ -1,0 +1,2 @@
+Git Commands
+1. git init - Initilizes the Empty Git Repository
